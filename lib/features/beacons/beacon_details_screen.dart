@@ -24,7 +24,7 @@ class BeaconDetailsScreen extends ConsumerWidget {
         backgroundColor: Colors.white,
         appBar: AppBar(
           title: Text(
-            'Beacon sdas',
+            'Beacon',
             style: GoogleFonts.getFont(
               'Lato',
               fontSize: 17.sp,
