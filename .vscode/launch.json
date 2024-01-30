@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "IOS phone",
+      "request": "launch",
+      "type": "dart",
+      "args": ["-d", "Matej"]
+    },
+    {
+      "name": "IOS Simulator",
+      "request": "launch",
+      "type": "dart",
+      "args": ["-d", "iPhone"]
+    },
+    {
+      "name": "Android",
+      "request": "launch",
+      "type": "dart",
+      "args": ["-d", "SM G960F"]
+    }
+  ]
+}
